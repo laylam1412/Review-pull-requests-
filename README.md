@@ -28,7 +28,7 @@ All great projects start with collaboration. Pull requests are the foundation of
 - **Prerequisites**: We assume you are familiar with creating branches, commits, and pull requests—you can learn this in our [Introduction to GitHub](https://github.com/skills/introduction-to-github) course.
 - **How long**: This course is five steps long and takes less than 30 minutes to complete.
 
-## How to start this course
+## How to start this course++
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
